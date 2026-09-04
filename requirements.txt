@@ -1,0 +1,3 @@
+python-telegram-bot==21.6
+telegraph==2.2.0
+requests==2.32.3
